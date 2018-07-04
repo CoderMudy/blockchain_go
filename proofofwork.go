@@ -12,6 +12,7 @@ var (
 	maxNonce = math.MaxInt64
 )
 
+//控制难度
 const targetBits = 16
 
 // ProofOfWork represents a proof-of-work
